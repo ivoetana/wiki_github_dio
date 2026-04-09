@@ -3,7 +3,7 @@
 Este é um projeto de listagem de repositórios do GitHub desenvolvido em **React** como parte do currículo da Digital Innovation One (DIO). A aplicação permite buscar e visualizar repositórios diretamente da API oficial do GitHub em uma interface moderna e organizada.
 
 <p align="center">
-  <img src="./public/screenshot.png" alt="Demonstração do Sistema" width="400">
+  <img src="./public/screenshot.png" alt="Demonstração do Sistema" width="800">
 </p>
 
 ---
