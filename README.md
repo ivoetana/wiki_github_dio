@@ -1,70 +1,76 @@
-# Getting Started with Create React App
+# 📂 Wiki GitHub - Listagem de Repositórios
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Este é um projeto de listagem de repositórios do GitHub desenvolvido em **React** como parte do currículo da Digital Innovation One (DIO). A aplicação permite buscar e visualizar repositórios diretamente da API oficial do GitHub em uma interface moderna e organizada.
 
-## Available Scripts
+<p align="center">
+  <img src="./public/screenshot.png" alt="Demonstração do Sistema" width="400">
+</p>
 
-In the project directory, you can run:
+---
 
-### `npm start`
+## 🚀 Funcionalidades
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+* **Busca em Tempo Real:** Localiza repositórios específicos através da API do GitHub.
+* **Listagem Dinâmica:** Exibe os repositórios encontrados em uma lista clara e intuitiva.
+* **Interface Moderna:** Desenvolvida com **Styled Components** para um design limpo e responsivo.
+* **Iconografia:** Implementação de ícones através do **FontAwesome** para melhor experiência do usuário.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+---
 
-### `npm test`
+## 🛠️ Tecnologias
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+* [React](https://reactjs.org/)
+* [Styled Components](https://styled-components.com/)
+* [FontAwesome](https://fontawesome.com/)
+* [JavaScript (ES6+)](https://262.ecma-international.org/6.0/)
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## ⚙️ Como executar o projeto
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+1.  Clone este repositório para o seu computador:
+    ```bash
+    git clone https://github.com/ivoetana/wiki_github_dio.git
+    ```
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+2.  Acessar o diretório do projeto:
+    ```bash
+    cd wiki_github_dio
+    ```
 
-### `npm run eject`
+3.  Instalar todas as dependências:
+    ```bash
+    yarn install
+    ```
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+4.  Executar a aplicação em modo de desenvolvimento:
+    ```bash
+    yarn start
+    ```
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+A aplicação estará rodando em `http://localhost:3000`.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+---
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## 🌎 English Version
 
-## Learn More
+## 📂 Wiki GitHub - Repository Listing
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+A modern repository search tool built with **React** as part of the Digital Innovation One (DIO) bootcamp. This app allows users to find and list GitHub repositories using the official API.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### Features
+* **Real-time Search:** Find repositories via GitHub API integration.
+* **Dynamic Listing:** Clear display of searched projects.
+* **Responsive Design:** Built with Styled Components.
+* **Iconography:** Enhanced UI with FontAwesome icons.
 
-### Code Splitting
+### Technologies
+* React
+* Styled Components
+* FontAwesome
+* JavaScript (ES6+)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+---
 
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### ✍️ Autor
+Desenvolvido por **Ivo Emanuel Tana**.
